@@ -1,0 +1,3 @@
+[submodule "gias-query-tool"]
+	path = gias-query-tool
+	url = https://github.com/motional-io/gias-query-tool.git
